@@ -9,5 +9,6 @@ Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-start
 
 ## Formatting Examples:
 
-1.*Italic* tekst.
-2. **Bold** Tekst.
+1.*Italic* emphasis.
+2. **Bold** emphasis.
+
